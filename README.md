@@ -10,6 +10,31 @@
 ### 界面展示：
 
 ##### 后台管理员登录界面（这次用超级管理员账号登录）
-
 ![后台管理员登录界面](https://github.com/qiang5201/PBAC-power/blob/master/img/%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95.png)
 
+##### 超级管理员界面
+![超级管理员界面](https://github.com/qiang5201/PBAC-power/blob/master/img/%E8%B6%85%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98%E7%95%8C%E9%9D%A2.png)
+
+##### 收搜功能
+![收搜功能](https://github.com/qiang5201/PBAC-power/blob/master/img/%E6%94%B6%E6%90%9C%E5%8A%9F%E8%83%BD.png)
+
+##### 用户角色授权功能
+![用户授权功能](https://github.com/qiang5201/PBAC-power/blob/master/img/%E7%94%A8%E6%88%B7%E8%A7%92%E8%89%B2%E6%8E%88%E6%9D%83.png)
+
+##### 角色管理功能
+![角色管理功能](https://github.com/qiang5201/PBAC-power/blob/master/img/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
+
+##### 超级管理员角色（拥有全部菜单权限）
+![超级管理员角色](https://github.com/qiang5201/PBAC-power/blob/master/img/%E8%B6%85%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98%E8%A7%92%E8%89%B2.png)
+
+##### 一般管理员角色（拥有部分菜单权限）
+![一般管理员角色](https://github.com/qiang5201/PBAC-power/blob/master/img/%E4%B8%80%E8%88%AC%E7%AE%A1%E7%90%86%E5%91%98%E8%A7%92%E8%89%B2.png)
+
+##### 菜鸟角色管理员（拥有部分菜单权限）
+![菜鸟角色管理员](https://github.com/qiang5201/PBAC-power/blob/master/img/%E8%8F%9C%E9%B8%9F%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86%E5%91%98.png)
+
+##### 系统菜单管理（可以自己添加菜单，需要选择左边的目录，或者选中顶级目录）
+![系统菜单管理](https://github.com/qiang5201/PBAC-power/blob/master/img/%E7%B3%BB%E7%BB%9F%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.png)
+
+##### 后台管理员登录界面（这次用超级管理员账号登录）
+![系统菜单管理]()
